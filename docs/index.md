@@ -1,7 +1,8 @@
-# Microcredencial UO: IA y educación: ética, pensamiento crítico e innovación docente
+# IA en Educación
 
 ***Actualizado - Junio 2025***
 
+Microcredencial UO: IA y educación: ética, pensamiento crítico e innovación docente
 Aquí compartimos el material generado para el **curso "Introducción a Learning Analytics"**. Este consta de un total de 7 unidades.  
 En este curso intentamos introducir el mundo del "Learning Analytics" (analítica del aprendizaje) con suspuestos prácticos que podemos aplicar y adaptar a nuestras necesidades.
 
